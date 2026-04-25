@@ -2,7 +2,7 @@
 
 🔐 Breaking things professionally (MSc Ethical Hacking @ Coventry)  
 💻 Full-stack engineer turned security researcher  
-🇬🇧 Based in the UK | Will hack for coffee ☕
+🇬🇧 Based in the UK | Will pentest if fueled by cake 🍰
 
 ![](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
 
