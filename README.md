@@ -1,19 +1,25 @@
-# Hi, I'm Celta 👋
+# Hey, I'm Celta 👾
 
-🎓 MSc Cybersecurity (Ethical Hacking) — Coventry University (NCSC Certified)  
-🎓 BSc Computer Science (Digital Systems Security) — University of Wollongong  
-💼 Full-Stack Engineer — 3+ years building secure healthcare & SaaS platforms  
-🔐 Aspiring Penetration Tester | Currently preparing for BSCP  
-📍 United Kingdom  
+🔐 Breaking things professionally (MSc Ethical Hacking @ Coventry)  
+💻 Full-stack engineer turned security researcher  
+🇬🇧 Based in the UK | Will hack for coffee ☕
 
-## What I'm working on
-- 🔥 PortSwigger Web Security Academy labs
-- 🛡️ MSc Ethical Hacking coursework & penetration testing assignments
-- 📚 Building my security portfolio
+![](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
 
-## Tech
-Python · JavaScript (React, Node.js) · Flask · Docker · AWS  
-Kali Linux · Burp Suite · Nmap · Wireshark
+## 🛠️ Tech & Tools
 
-## Connect
-📧 celtadenya20@gmail.com
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Git](https://skillicons.dev/icons?i=git)
+
+## 🔍 Currently
+- 📚 MSc Cybersecurity (Ethical Hacking) — Coventry University
+- 🧪 PortSwigger Web Security Academy labs
+- 🎯 Preparing for BSCP certification
+
+## 📫 Reach me
+✉️ celtadenya20@gmail.com
