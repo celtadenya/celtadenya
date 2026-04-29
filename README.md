@@ -17,7 +17,7 @@
 ![Git](https://skillicons.dev/icons?i=git)
 
 ## 🔍 Currently
-- 📚 MSc Cybersecurity (Ethical Hacking) — Coventry University
+- 📚 MSc Cybersecurity (Ethical Hacking) - Coventry University
 - 🧪 PortSwigger Web Security Academy labs
 - 🎯 Preparing for BSCP certification
 
