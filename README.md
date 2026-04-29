@@ -1,6 +1,6 @@
 # Hey, I'm Celta 👾
 
-🔐 Breaking things professionally 
+🔐 Breaking things professionally   
 💻 Full-stack engineer turned security researcher  
 🇬🇧 Based in the UK | Will pentest if fueled by cake 🍰
 
