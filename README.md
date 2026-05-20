@@ -17,7 +17,10 @@
 ![Git](https://skillicons.dev/icons?i=git)
 
 ## 🔍 Currently
-- 📚 MSc Cybersecurity (Ethical Hacking) - Coventry University
+
+- 📚 CHESS (Digital Innovation) - University of London 
+  📚 BSc Computer Science (Digital System Security) - University of Wollongong
+  📚 MSc Cybersecurity (Ethical Hacking) - Coventry University
 - 🧪 PortSwigger Web Security Academy labs
 - 🎯 Preparing for BSCP certification
 
