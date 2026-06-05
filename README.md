@@ -1,4 +1,4 @@
-# Hey, I'm Celta 👾
+# Hi, I'm Celta 👾
 
 🔐 Breaking things professionally   
 💻 Full-stack engineer turned security researcher  
